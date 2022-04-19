@@ -140,7 +140,7 @@ export default function SignIn() {
                 </Link>
               </Grid>
               <Grid item>
-                <Link to="/rizkurniawan.github.io/signin/Signup/" variant="body2">
+                <Link to="/signin/Signup/" variant="body2">
                   {"Don't have an account? Sign Up"}
                 </Link>
               </Grid>
